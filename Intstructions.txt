@@ -1,0 +1,10 @@
+This game is Atari Breakout
+
+first rename file from gameexe to game.exe
+
+press A to go left
+press D to go right
+press p to pause
+press x to exit anytime
+
+you have 5 lives to go 
